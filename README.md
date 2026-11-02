@@ -1,100 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003b00&height=220&section=header&text=AKSHIT&fontColor=00ff41&fontSize=60&fontAlignY=38&animation=fadeIn&desc=NEET%20aspirant%20%2F%2F%20coder%20%2F%2F%20learning%20AI%20%2B%20pentesting&descSize=16&descAlignY=62&descColor=a6ffb8" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:12331c&height=230&section=header&text=AKSHIT&fontColor=eafff0&fontSize=64&fontAlignY=38&animation=fadeIn&desc=NEET%20aspirant%20%2F%2F%20coder%20%2F%2F%20learning%20AI%20%2B%20pentesting&descSize=15&descAlignY=62&descColor=3dff7a" width="100%" alt="header" />
 
-<a href="https://github.com/Akshit1170">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=680&height=50&lines=%3E+Wake+up%2C+Akshit...;%3E+The+Matrix+has+you...;%24+whoami+%E2%86%92+neet+aspirant+%2B+developer;%24+learning+--ai-ml+--cybersecurity;%24+building+in+public+_" alt="typing" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/root%40akshit-%23-00ff41?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/status-learning-00ff41?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/mode-build_in_public-00ff41?style=flat-square&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=Akshit1170&color=00ff41&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=3DFF7A&background=00000000&center=true&vCenter=true&width=620&height=40&lines=%3E+Wake+up%2C+Akshit...;%3E+The+Matrix+has+you...;%24+learning+--ai-ml+--cybersecurity;%24+building+in+public+_" alt="typing" />
 
 </div>
 
+<br/>
+
 ```ansi
-┌──(akshit㉿matrix)-[~]
-└─$ whoami
+akshit@matrix:~$ whoami
 akshit — NEET aspirant who loves to code
 
-┌──(akshit㉿matrix)-[~]
-└─$ cat about.txt
+akshit@matrix:~$ cat about.txt
 [*] Preparing for NEET by day, building and breaking things by night
 [*] Learning: AI/ML + Cybersecurity (ethical pentesting)
-[*] Built a few apps already (see ./projects)
+[*] Built a few apps already
 [*] Learning in public: notes, mistakes and progress live here
 
-┌──(akshit㉿matrix)-[~]
-└─$ ./status.sh
+akshit@matrix:~$ ./status.sh
 [ OK ] studying ........ NEET
 [ OK ] coding .......... Flutter / Dart
 [ .. ] learning ........ AI / ML
 [ .. ] learning ........ Pentesting (ethical)
 ```
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=600&color=00FF41&background=000000&center=true&vCenter=true&width=520&height=30&lines=%5B+scanning+projects...+%5D;%5B+loading+skills...+%5D;%5B+access+granted+%5D" alt="loader" />
-</div>
+<br/>
 
----
+### `~/projects`
 
-```ansi
-┌──(akshit㉿matrix)-[~]
-└─$ ls -la ./projects
-```
-
-| Project | Description | Stack |
+| Project | What it does | Stack |
 |---|---|---|
-| [**SnapSort AI**](https://github.com/Akshit1170/SnapSort) | Privacy-first, on-device smart gallery organizer: OCR search, duplicate cleanup, encrypted vault | `Flutter` `Riverpod` `SQLite` `ML Kit` |
+| [**SnapSort AI**](https://github.com/Akshit1170/SnapSort) | Privacy-first, on-device gallery organizer: OCR search, duplicate cleanup, encrypted vault | `Flutter` `Riverpod` `SQLite` `ML Kit` |
 | [**Project Atlas**](https://github.com/Akshit1170/project-atlas-) | Local-first AI research OS: semantic search, knowledge graph, PDF reader, Ollama chat | `Flutter` `FastAPI` `ChromaDB` `Ollama` |
 
----
+<br/>
 
-```ansi
-┌──(akshit㉿matrix)-[~]
-└─$ cat skills.json
-```
+### `~/skills`
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00ff41&labelColor=000000&color=00ff41" />
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00ff41&color=00ff41" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41&color=00ff41" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff41&color=00ff41" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00ff41&color=00ff41" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41&color=00ff41" />
-  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41&color=00ff41" />
+  <img src="https://img.shields.io/badge/Flutter-0f1a13?style=flat-square&logo=flutter&logoColor=3dff7a" />
+  <img src="https://img.shields.io/badge/Dart-0f1a13?style=flat-square&logo=dart&logoColor=3dff7a" />
+  <img src="https://img.shields.io/badge/Python-0f1a13?style=flat-square&logo=python&logoColor=3dff7a" />
+  <img src="https://img.shields.io/badge/FastAPI-0f1a13?style=flat-square&logo=fastapi&logoColor=3dff7a" />
+  <img src="https://img.shields.io/badge/SQLite-0f1a13?style=flat-square&logo=sqlite&logoColor=3dff7a" />
+  <img src="https://img.shields.io/badge/Git-0f1a13?style=flat-square&logo=git&logoColor=3dff7a" />
 </p>
 
-```ansi
-┌──(akshit㉿matrix)-[~]
-└─$ tail -f learning.log
-```
+<br/>
 
-| Track | Progress |
+### `~/now`
+
+| Track | Status |
 |---|---|
-| AI / Machine Learning | `[█████░░░░░]` in progress |
-| Cybersecurity / Pentesting | `[███░░░░░░░]` in progress |
-| App development | `[███████░░░]` shipping |
+| AI / Machine Learning | learning |
+| Cybersecurity / Pentesting | learning |
+| App development | shipping |
 
----
-
-```ansi
-┌──(akshit㉿matrix)-[~]
-└─$ git stats
-```
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshit1170&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=a6ffb8&ring_color=00ff41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit1170&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=a6ffb8" />
-</p>
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=520&height=40&lines=%24+echo+%22Learning+in+public.+Follow+the+journey.%22;%24+exit+0+%E2%80%94+see+you+in+the+Matrix" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1500&color=3DFF7A&background=00000000&center=true&vCenter=true&width=520&height=36&lines=%24+echo+%22Learning+in+public.+Follow+the+journey.%22;%24+exit+0+%E2%80%94+see+you+in+the+Matrix" alt="footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,100:000000&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12331c,100:0d1117&height=90&section=footer" width="100%" alt="footer wave" />
 
 </div>
