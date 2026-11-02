@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003b00&height=220&section=header&text=AKSHIT&fontColor=00ff41&fontSize=60&fontAlignY=38&animation=fadeIn&desc=NEET%20aspirant%20%2F%2F%20coder%20%2F%2F%20learning%20AI%20%2B%20pentesting&descSize=16&descAlignY=62&descColor=a6ffb8" width="100%" alt="header" />
+
 <a href="https://github.com/Akshit1170">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=680&height=50&lines=%3E+Wake+up%2C+Akshit...;%3E+The+Matrix+has+you...;%24+whoami+%E2%86%92+neet+aspirant+%2B+developer;%24+learning+--ai-ml+--cybersecurity;%24+building+in+public+_" alt="typing" />
 </a>
@@ -32,6 +34,10 @@ akshit — NEET aspirant who loves to code
 [ .. ] learning ........ AI / ML
 [ .. ] learning ........ Pentesting (ethical)
 ```
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=600&color=00FF41&background=000000&center=true&vCenter=true&width=520&height=30&lines=%5B+scanning+projects...+%5D;%5B+loading+skills...+%5D;%5B+access+granted+%5D" alt="loader" />
+</div>
 
 ---
 
@@ -85,12 +91,10 @@ akshit — NEET aspirant who loves to code
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit1170&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=a6ffb8" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit1170&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=a6ffb8&currStreakNum=ffffff&sideNums=ffffff&dates=a6ffb8" />
-</p>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=00FF41&background=000000&center=true&vCenter=true&width=520&height=40&lines=%24+echo+%22Learning+in+public.+Follow+the+journey.%22;%24+exit+0+%E2%80%94+see+you+in+the+Matrix" alt="footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003b00,100:000000&height=120&section=footer&animation=fadeIn" width="100%" alt="footer wave" />
 
 </div>
